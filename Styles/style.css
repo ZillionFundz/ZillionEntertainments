@@ -120,7 +120,7 @@ nav li :hover {
 }
 
 .formclass {
-    background-color: rgba(0, 0, 0, 0.8);
+    background-color: rgba(0, 0, 0, 0.5);
     font-size: 0.9em;
     width: 50%;
     border-radius: 8px;
