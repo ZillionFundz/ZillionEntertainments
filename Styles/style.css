@@ -121,9 +121,10 @@ nav li :hover {
 
 .formclass {
     background-color: #ffffff;
-    Opacity: 0.5;
+    Opacity: 0.8;
     font-size: 0.9em;
     width: 50%;
+    Border: 1px solid blueviolet;
     border-radius: 8px;
     padding: 15px 0px;
     padding-left: 10%;
